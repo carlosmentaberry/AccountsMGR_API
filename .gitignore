@@ -1,0 +1,79 @@
+# ASP.NET Core
+.vscode/
+.vs/
+
+# Compiled Object files
+obj/
+bin/
+
+# NuGet Packages
+*.nupkg
+*.pdb
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Rider
+.idea/
+
+# User-specific files (Rider)
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio Code
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows Installer XML (WiX)
+*.wixproj
+
+# Windows Installer XML (WiX) output
+*.wxobj
+*.wixpdb
+
+# Windows Installer XML (WiX) patch
+*.wixmst
+
+# Windows Installer XML (WiX) setup
+*.exe
+
+# Windows Installer XML (WiX) merge module
+*.msm
